@@ -3,6 +3,35 @@
   <component name="ChangeListManager">
     <list default="true" id="97da5b50-8d05-4541-a558-de1d7642bbf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/God.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/God.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Island.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Island.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Navigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Navigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/GameApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/God.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Island.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Navigator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Plant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Ship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Street.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/game/Tortoise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ddqb/entity/sys/Account.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,36 +142,51 @@
     <session id="1370681001">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="java" value="14" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="JAVA" value="14" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="10" />
+          <entry key="java" value="26" />
+          <entry key="xml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="26" />
+          <entry key="XML" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Island.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,8 +210,6 @@
         <option value="$PROJECT_DIR$/src/main/java/entity/Ship.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/Island.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/God.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java" />
         <option value="$PROJECT_DIR$/src/test/java/Client.java" />
         <option value="$PROJECT_DIR$/src/test/java/AiMan.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/game/play/Ship.java" />
@@ -177,14 +219,21 @@
         <option value="$PROJECT_DIR$/src/main/java/entity/game/play/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/game/play/People.java" />
         <option value="$PROJECT_DIR$/src/main/java/entity/game/play/Block.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Street.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Monster.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Plant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Thing.java" />
         <option value="$PROJECT_DIR$/src/main/java/service/dd.html" />
-        <option value="$PROJECT_DIR$/src/main/java/entity/game/Block.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Block.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/God.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Monster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Plant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Street.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Thing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Ship.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/People.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Navigator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/game/Island.java" />
       </list>
     </option>
   </component>
@@ -225,8 +274,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="36" />
+    <option name="x" value="19" />
+    <option name="y" value="28" />
     <option name="width" value="1386" />
     <option name="height" value="716" />
   </component>
@@ -238,7 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,26 +318,48 @@
               <item name="ddbb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ddbb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ddbb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ddbb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ddbb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572261540427" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572341539914" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DD/SpringBoot-Learning-2.x/chapter1-1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -339,26 +409,27 @@
       <workItem from="1571891217491" duration="11857000" />
       <workItem from="1571967554775" duration="2152000" />
       <workItem from="1572257466369" duration="1065000" />
+      <workItem from="1572313075248" duration="2711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31174000" />
+    <option name="totallyTimeSpent" value="34504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="5" width="1386" height="716" extended-state="0" />
+    <frame x="19" y="28" width="1386" height="716" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20361991" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19834088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42905983" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42905983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,6 +441,7 @@
       <window_info anchor="bottom" id="MyBatis Log" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.52903223" />
       <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -416,101 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/God.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Island.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Navigator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Ship.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Street.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/People.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Thing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Plant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/service/dd.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="30" column="70" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -523,8 +504,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="366">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/God.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Tortoise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Street.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Navigator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/game/Island.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

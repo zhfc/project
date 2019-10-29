@@ -1,8 +1,11 @@
 package entity.game;
 
+import lombok.Data;
+
 /**
  * 岛屿
  */
+@Data//@Data注解可以实现在编译器自动添加set和get函数的效果。该注解是lombok提供的
 public class Island {
 
     private String id;
@@ -15,75 +18,4 @@ public class Island {
     private double fertile;         //肥沃度
     private String description;     //描述
 
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public double getArea() {
-        return area;
-    }
-
-    public void setArea(double area) {
-        this.area = area;
-    }
-
-    public double getEnableArea() {
-        return enableArea;
-    }
-
-    public void setEnableArea(double enableArea) {
-        this.enableArea = enableArea;
-    }
-
-    public double getDisableArea() {
-        return disableArea;
-    }
-
-    public void setDisableArea(double disableArea) {
-        this.disableArea = disableArea;
-    }
-
-    public Integer getLongitude() {
-        return longitude;
-    }
-
-    public void setLongitude(Integer longitude) {
-        this.longitude = longitude;
-    }
-
-    public Integer getLatitude() {
-        return latitude;
-    }
-
-    public void setLatitude(Integer latitude) {
-        this.latitude = latitude;
-    }
-
-    public double getFertile() {
-        return fertile;
-    }
-
-    public void setFertile(double fertile) {
-        this.fertile = fertile;
-    }
 }

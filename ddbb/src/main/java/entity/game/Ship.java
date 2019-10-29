@@ -1,8 +1,11 @@
 package entity.game;
 
+import lombok.Data;
+
 /**
  * 船
  */
+@Data//@Data注解可以实现在编译器自动添加set和get函数的效果。该注解是lombok提供的
 public class Ship {
 
     private String id;
@@ -12,51 +15,5 @@ public class Ship {
     private Integer latitude;       //纬度（游戏）
     private String description;     //描述
 
-    public String getId() {
-        return id;
-    }
 
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    public Integer getLongitude() {
-        return longitude;
-    }
-
-    public void setLongitude(Integer longitude) {
-        this.longitude = longitude;
-    }
-
-    public Integer getLatitude() {
-        return latitude;
-    }
-
-    public void setLatitude(Integer latitude) {
-        this.latitude = latitude;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
 }
