@@ -1,8 +1,11 @@
 package entity.game;
 
+import lombok.Data;
+
 /**
  * 玩家实体
  */
+@Data//@Data注解可以实现在编译器自动添加set和get函数的效果。该注解是lombok提供的
 public class Player extends People{
 
 
@@ -14,61 +17,4 @@ public class Player extends People{
     private Integer longitude;      //经度（游戏）
     private Integer latitude;       //纬度（游戏）
 
-
-
-    public Integer getLongitude() {
-        return longitude;
-    }
-
-    public void setLongitude(Integer longitude) {
-        this.longitude = longitude;
-    }
-
-    public Integer getLatitude() {
-        return latitude;
-    }
-
-    public void setLatitude(Integer latitude) {
-        this.latitude = latitude;
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public String getPlayNme() {
-        return playNme;
-    }
-
-    public void setPlayNme(String playNme) {
-        this.playNme = playNme;
-    }
-
-    public int getLevel() {
-        return level;
-    }
-
-    public void setLevel(int level) {
-        this.level = level;
-    }
-
-    public double getMoney() {
-        return money;
-    }
-
-    public void setMoney(double money) {
-        this.money = money;
-    }
-
-    public Navigator getNavigator() {
-        return navigator;
-    }
-
-    public void setNavigator(Navigator navigator) {
-        this.navigator = navigator;
-    }
 }
