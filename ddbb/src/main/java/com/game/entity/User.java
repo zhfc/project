@@ -2,9 +2,9 @@ package com.game.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
+import javax.validation.constraints.*;
 import lombok.Data;
 
-import javax.validation.constraints.*;
 
 @Data
 @ApiModel(description = "用户实体")
