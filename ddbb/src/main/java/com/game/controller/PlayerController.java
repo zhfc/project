@@ -2,8 +2,10 @@ package com.game.controller;
 
 
 import com.game.entity.Player;
+import com.game.service.PlayerService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -16,8 +18,26 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @Api(tags = "玩家相关")
 @RestController
-@RequestMapping(value = "/player")
+@RequestMapping(value = "/play")
 public class PlayerController {
+
+
+    @Autowired
+    private PlayerService playerService;
+
+    /**
+     * 创建角色
+     * @return
+     */
+    @PostMapping("/create")
+    @ApiOperation(value = "登陆游戏", notes = "登陆游戏")
+    public String create(@RequestBody Player player){
+
+        playerService.createPlayer(player);
+
+        return "success";
+    }
+
 
     /**
      * 退出游戏时更新缓存
@@ -42,18 +62,20 @@ public class PlayerController {
         return "success";
     }
 
+
+
     /**
-     * 航行,航行为坐标移动
-     * @param player
+     * 删除角色
      * @return
      */
-    @PostMapping("/navigate")
-    @ApiOperation(value = "航行", notes = "航行")
-    public String go(@RequestBody Player player) {
-
+    @PostMapping("/delete")
+    @ApiOperation(value = "登陆游戏", notes = "登陆游戏")
+    public String delete(@RequestBody Player player){
 
         return "success";
     }
+
+
 
     /**
      * 坐标内移动，即在一个坐标内的场地移动

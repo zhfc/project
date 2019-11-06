@@ -13,7 +13,6 @@ public class Demo1 {
     public static final String password="root";
 
     public static void main(String[] args) {
-
         SQLManager sqlManager = SQLManagerFactory.getManager(driver,url,userName,password);
         UserDao dao = sqlManager.getMapper(UserDao.class);
         List<User> list = dao.selectUserByName("lisihang");
