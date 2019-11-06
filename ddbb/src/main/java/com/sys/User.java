@@ -6,6 +6,9 @@ import java.util.Date;
 
 /**
  * 账户玩家
+ * 微信用户
+ * PC用户
+ * 其他用户
  */
 @Data
 public class User {
